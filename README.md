@@ -44,7 +44,8 @@ I'm  technical enthusiast who does web development 🌐 and mobile app developme
 
   <br/>
   <p align="center">
-<img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Athmajanaji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Aswin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=
+RYZNWick&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
  </p>
 <br/>
