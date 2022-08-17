@@ -44,7 +44,7 @@ I'm  technical enthusiast who does web development 🌐 and mobile app developme
 
   <br/>
   <p align="center">
-![RYZNWick's Stats](https://github-readme-stats.vercel.app/api?username=RYZNWick&theme=vue&show_icons=true&hide_border=true&count_private=true)
+[RYZNWick's Stats](https://github-readme-stats.vercel.app/api?username=RYZNWick&theme=vue&show_icons=true&hide_border=true&count_private=true)
   <br/>
  </p>
 <br/>
