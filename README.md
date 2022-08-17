@@ -41,13 +41,4 @@ I'm  technical enthusiast who does web development 🌐 and mobile app developme
 <br>
 
 ## 📊 My Github Stats
-
-  <br/>
-  <p align="center">
-[RYZNWick's Stats](https://github-readme-stats.vercel.app/api?username=RYZNWick&theme=vue&show_icons=true&hide_border=true&count_private=true)
-  <br/>
- </p>
-<br/>
-<br/>
-<br/>
-<br/>
+![Prejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=prejin2310&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
